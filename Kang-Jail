@@ -2,4 +2,4 @@
 
 git clone https://github.com/GALANG08/Kang-Jail
 cd Kang-Jail
-python2 Kang-Jail
+python Bruntal.py
